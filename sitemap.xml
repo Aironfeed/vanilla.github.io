@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://vanilla.com/index.html</loc>
+    <lastmod>2017-11-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://vanilla.com/images/icon2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vanilla.com/images/3233.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vanilla.com/images/c_o69etagju-crop-u1121.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vanilla.com/images/4242-crop-u1229.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vanilla.com/images/c_o69etagju-crop-u11212.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vanilla.com/images/4242-crop-u12292.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vanilla.com/images/3233302x261.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vanilla.com/images/c_o69etagju-crop-u11213.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vanilla.com/images/4242-crop-u12293.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vanilla.com/images/3233262x227.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vanilla.com/images/c_o69etagju-crop-u11214.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vanilla.com/images/4242-crop-u12294.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
